@@ -1,0 +1,25 @@
+div {
+    text-align: left;
+    width: 500px;
+    margin: auto;
+    margin-top: 1em;
+}
+
+div.content {
+    font-size: 100%;
+}
+
+div.title {
+    margin-top: 1em;
+    font-size: 300%;
+}
+
+div.menu a {
+    float: left;
+    border-right: solid gray medium;
+    text-decoration: none;
+    margin-right: 5px;
+    padding: 5px;
+    color: black;
+    font-size: 200%;
+}
